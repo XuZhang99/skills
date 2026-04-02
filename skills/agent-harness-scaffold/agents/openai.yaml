@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Harness Scaffold"
+  short_description: "Scaffold a multi-agent coding harness."
+  default_prompt: "Use $agent-harness-scaffold to scaffold a multi-agent coding harness from my product request in this repo."
